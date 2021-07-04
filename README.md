@@ -1,2 +1,1 @@
-# template
-Template
+index.md
