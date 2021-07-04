@@ -10,6 +10,7 @@ ALL: 000.md
         _includes/footer.html _includes/head.html _includes/google-analytics.html \
 	assets/css/style.css assets/scripts/includeScript.py 
 	python assets/scripts/includeScript.py < 000.pmd > 000.md
+	tar cfj ./template.tar.bz2 .dojekyll .gitignore .template Gemfile LICENSE Makefile *.ico *.md *.pmd assets/ _includes/ _layouts/ SandBox/
 
 .phony: ALL
 
