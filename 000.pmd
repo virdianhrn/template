@@ -10,6 +10,34 @@ title:  "GitHub Page Configuration Files"
 ```
 
 <br>
+### index.md
+
+```
+(> index.md <)
+```
+
+<br>
+### about.md
+
+```
+(> about.md <)
+```
+
+<br>
+### tips.md
+
+```
+(> tips.md <)
+```
+
+<br>
+### links.md
+
+```
+(> links.md <)
+```
+
+<br>
 ### Gemfile
 
 ```
