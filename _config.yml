@@ -1,12 +1,12 @@
 title:       "GitHub Page Template"
-version:     "0010---19-Jul-2021"
+version:     "0012---19-Jul-2021"
 copyright:   "2021-2021"
 description: >- 
   This is a
   GitHub Page Template
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-6"
+google_analytics: "UA-89852122-15"
 author:           "J. Walker"
 address:          "Box 7, Mawitaan, Bangalla."
 sitemap:          "true"
