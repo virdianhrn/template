@@ -1,5 +1,5 @@
 title:       "GitHub Page Template"
-version:     "0015--29-Jul-2021"
+version:     "0016--30-Jul-2021"
 copyright:   "2021-2021"
 description: >- 
   This is a
@@ -18,5 +18,12 @@ urlcontact:       "TBA"
 urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
 urlghpage:        "https://template.vlsm.org/"
 keywords:         "jekyll, testing"
-github:           [metadata]
+github:
+  - metadata
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'layout'
 
