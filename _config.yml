@@ -1,5 +1,5 @@
 title:       "GitHub Page Template"
-version:     "0016--30-Jul-2021"
+version:     "0016a--30-Jul-2021"
 copyright:   "2021-2021"
 description: >- 
   This is a
@@ -23,7 +23,8 @@ github:
 defaults:
   -
     scope:
-      path: ''
+      path: ""
     values:
-      layout: 'layout'
+      layout: "layout"
+
 
