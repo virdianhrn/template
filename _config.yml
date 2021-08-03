@@ -1,4 +1,4 @@
-version:     "0018a--03-Aug-2021"
+version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
   This is a
@@ -46,4 +46,5 @@ google_analytics: "UA-89852122-15"
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+
 
