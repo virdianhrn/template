@@ -1,30 +1,49 @@
-title:       "GitHub Page Template"
-version:     "0016a--30-Jul-2021"
+version:     "0017--02-Aug-2021"
 copyright:   "2021-2021"
-description: >- 
+description:
   This is a
   GitHub Page Template
-# baseurl: "" # e.g. /blog
-# url: ""     # e.g. http://example.com
-google_analytics: "UA-89852122-15"
-author:           "J. Walker"
-address:          "Box 7, Mawitaan, Bangalla."
-sitemap:          "true"
+disclaimer:
+  I have spoken.
+keywords:    "jekyll, testing"
+navbarlinks:
+- navbar:    "Home"
+  link:      "/"
+- navbar:    "Links"
+  link:      "/LINKS/"
+- navbar:    "Tips"
+  link:      "/TIPS/"
+- navbar:    "Zip File"
+  link:      "/template.zip"
+- navbar:    "TarBall"
+  link:      "/template.tar.bz2"
+- navbar:    "GitHub"
+  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+- navbar:    "Listing"
+  link:      "/000.html"
+- navbar:    "About"
+  link:      "/ABOUT/"
+- navbar:    "GitHub Page"
+  link:      "https://template.vlsm.org/"
+title:       "GitHub Page Template"
+lang:        "en-US"
+author:      "J. Walker"
+address:     "Box 7, Mawitaan, Bangalla."
+sitemap:     "true"
+markdown:    "kramdown"
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-seo-tag
+google_analytics: "UA-89852122-15"
+
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
-urlghpage:        "https://template.vlsm.org/"
-keywords:         "jekyll, testing"
-github:
-  - metadata
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "layout"
-
 

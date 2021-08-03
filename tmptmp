@@ -1,0 +1,11 @@
+
+    <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/000.html'>LISTING</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/LINKS/'>LINKS</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/TIPS/'>TIPS</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/template.zip'>ZIP File</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/template.tar.bz2'>TARBALL</a></li>
+    <li class='listitem'><a href='{{ site.urlgithub }}'>GitHub</a></li>
+    <li class='listitem'><a href='{{ site.baseurl }}/ABOUT/'>ABOUT</a></li>
+    <li class='listitem'><a href='{{ site.urlweb }}'>WEB</a></li>
+
