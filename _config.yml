@@ -1,4 +1,4 @@
-version:     "0020--28-May-2022"
+version:     "0020a--28-May-2022"
 copyright:   "2021-2022"
 description:
   This is a
@@ -31,6 +31,13 @@ author:      "J. Walker"
 address:     "Box 7, Mawitaan, Bangalla."
 sitemap:     "true"
 markdown:    "kramdown"
+urlweb:           "https://template.vlsm.org/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/yforku/template/"
+google_analytics: "UA-89852122-15"
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
 defaults:
 - scope:
     path:    ""
@@ -38,13 +45,3 @@ defaults:
     layout:  "default"
 github:
 - metadata
-plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
-google_analytics: "UA-89852122-15"
-
-urlweb:           "https://template.vlsm.org/"
-urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
-
-
