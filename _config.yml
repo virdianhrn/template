@@ -1,40 +1,40 @@
-version:     "0020a--28-May-2022"
-copyright:   "2021-2022"
+version:          "0020b--28-May-2022"
+copyright:        "2021-2022"
 description:
   This is a
   GitHub Page Template
 disclaimer:
   I have spoken.
-keywords:    "jekyll, testing"
+keywords:         "jekyll, testing"
 navbarlinks:
-- navbar:    "Home"
-  link:      "/"
-- navbar:    "Links"
-  link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
-- navbar:    "TarBall"
-  link:      "/template.tar.bz2"
-- navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
-- navbar:    "Listing"
-  link:      "/000.html"
-- navbar:    "About"
-  link:      "/ABOUT/"
-- navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
-lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
-sitemap:     "true"
-markdown:    "kramdown"
+- navbar:         "Home"
+  link:           "/"
+- navbar:         "Links"
+  link:           "/LINKS/"
+- navbar:         "Tips"
+  link:           "/TIPS/"
+- navbar:         "Zip File"
+  link:           "/template.zip"
+- navbar:         "TarBall"
+  link:           "/template.tar.bz2"
+- navbar:         "GitHub"
+  link:           "https://github.com/yforku/template/"
+- navbar:         "Listing"
+  link:           "/000.html"
+- navbar:         "About"
+  link:           "/ABOUT/"
+- navbar:         "GitHub Page"
+  link:           "https://template.vlsm.org/"
+title:            "GitHub Page Template"
+lang:             "en-US"
+author:           "J. Walker"
+address:          "Box 7, Mawitaan, Bangalla."
+sitemap:          "true"
+markdown:         "kramdown"
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/yforku/template/"
-google_analytics: "UA-89852122-15"
+google_analytics: "G-KPSLWHN6H7"
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -45,3 +45,4 @@ defaults:
     layout:  "default"
 github:
 - metadata
+
