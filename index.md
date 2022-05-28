@@ -25,17 +25,5 @@ I am {{ site.author }}, {{ site.address }}
 * [This is how me do it records](https://doit.vlsm.org/)
 
 <br>
-## Source Code
-
-```
-#include <stdio.h>
-
-int main(void) {
-    prinf("As.w.w.\n");
-}
-
-```
-
-<br>
-Qapla!
+This is the Way!
 
