@@ -12,7 +12,9 @@ title:  "GitHub Page Configuration Files"
 ### index.md
 
 ```
+{% raw %}
 (> index.md <)
+{% endraw %}
 ```
 
 <br>
