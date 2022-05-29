@@ -5,6 +5,7 @@ description:
   GitHub Page Template
 disclaimer:
   I have spoken.
+tagline:          "This is a GitHub Page Template tagline"
 keywords:         "jekyll, testing"
 navbarlinks:
 - navbar:         "Home"
