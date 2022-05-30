@@ -7,7 +7,7 @@
 
 SITEURL="template.vlsm.org"
 
-ALL: 000.md .siteHack
+ALL: 000.md
 	@echo "xyzzy... plugh"
 
 000.md: 000.pmd _config.yml Gemfile _layouts/default.html Makefile index.md about.md tips.md links.md \
