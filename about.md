@@ -24,7 +24,7 @@ Fill free to clone/fork/hijack/whatever it!
 {% endfor %}
 </li></ul><br>
 
-# Qapla!
+# This is the Way!
 
 
 
