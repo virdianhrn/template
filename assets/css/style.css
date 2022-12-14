@@ -136,6 +136,16 @@
   clear: both;
 }
 
+td {
+  padding-top:      3px;
+  padding-bottom:   3px;
+}
+
+li {
+  padding-top:      3px;
+  padding-bottom:   3px;
+}
+
 .navbar {
   font-size:        0.8em;
   border-width:     0px;
