@@ -24,7 +24,7 @@ I am {{ site.author }}, {{ site.address }}
 
 * [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.html)
 * [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.html)
-* [This is how me do it records](https://doit.vlsm.org/)
+* [This is how me do it!](https://doit.vlsm.org/)
 
 [&#x213C;](#)<br id="idxXXX">
 
