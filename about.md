@@ -11,20 +11,9 @@ Fill free to clone/fork/hijack/whatever it!
 # More Information
 
 <ul><li>
-{% for ii in site.navbarlinks %}
-  {% if ii.navbar == "GitHub Page" %}
-    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
-  {% endif %}
-{% endfor %}
+    <a href="https://virdianhrn.github.io/template/">GitHub Page</a>
 </li><li>
-{% for ii in site.navbarlinks %}
-  {% if ii.navbar == "GitHub" %}
-    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
-  {% endif %}
-{% endfor %}
+    <a href="https://github.com/virdianhrn/template/">GitHub</a>
 </li></ul><br>
 
 # This is the Way!
-
-
-
